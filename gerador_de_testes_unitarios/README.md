@@ -17,25 +17,6 @@ e gera um teste unitário adaptado ao tipo de arquivo selecionado.<br>
 Os logs gerados podem ser salvos em formatos `.txt` ou `.pdf`.<br>
 </p>
 
-## Gerador de Testes Unitários
-
-<p align='center'>
-Um programa simples que utiliza inteligência artificial para analisar arquivos<br>
-e gerar testes unitários com base em sua arquitetura e funcionalidade.<br>
-O programa também permite salvar os logs gerados em diferentes formatos<br>
-como `.txt` ou `.pdf`.
-</p>
-
-## Como funciona
-
-<p align='center'>
-O programa utiliza as bibliotecas `flet` para criar uma interface gráfica<br>
-e `google.generativeai` para interagir com a API de inteligência artificial.<br>
-A partir de um arquivo fornecido pelo usuário, o programa analisa o conteúdo<br>
-e gera um teste unitário adaptado ao tipo de arquivo selecionado.<br>
-Os logs gerados podem ser salvos em formatos `.txt` ou `.pdf`.<br>
-</p>
-
 ## Como usar
 
 <p>Instale as bibliotecas necessárias:</p>
