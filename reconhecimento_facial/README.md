@@ -24,34 +24,6 @@ pip install mtcnn
 pip install matplotlib
 ```
 
-Aqui está um exemplo de arquivo README.md para o projeto de reconhecimento facial:
-
-## Reconhecimento Facial
-
-<p align='center'>
-Um programa simples que utiliza a biblioteca `MTCNN` para detectar rostos<br>
-em imagens e destacar as áreas identificadas com retângulos.<br>
-O programa também utiliza `matplotlib` para exibir as imagens processadas.<br>
-</p>
-
-## Como funciona
-
-<p align='center'>
-O programa utiliza a biblioteca `MTCNN` para detectar rostos em imagens.<br>
-A partir de uma imagem fornecida pelo usuário, o detector identifica<br>
-as coordenadas dos rostos e desenha retângulos ao redor deles.<br>
-O resultado é exibido utilizando a biblioteca `matplotlib`.<br>
-</p>
-
-## Como usar
-
-<p>Instale as bibliotecas necessárias:</p>
-
-```bash
-pip install mtcnn
-pip install matplotlib
-```
-
 <p>Execute o arquivo Jupyter Notebook:</p>
 
 1. Abra o arquivo `reconhecimento_facial.ipynb` em um editor de notebooks, como Jupyter ou VS Code.
